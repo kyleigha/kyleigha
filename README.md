@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ailiurous
+- 👋 Hi, I’m Ailorous
 - 👀 I’m interested in conquering the World!
 - 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate in finding ways to make the internet truly free again.
